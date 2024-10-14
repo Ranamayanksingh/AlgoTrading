@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run tryScallop.Main3 "intputFolder/inputFile" "outputFolder/outpFileName", Some(cae89926-8d9b-4f97-8970-34977676004f), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/mayanksinghrana/AlgoTrading/AlgoTradeScalaPrograms/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
